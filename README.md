@@ -1,4 +1,9 @@
 # Tic-Tac-Toe
+
+![demo_ttt](https://user-images.githubusercontent.com/80836634/135965359-f14f1fde-fdc2-4a1b-9a11-ae994db8c7f1.gif)
+
+
+
 How to run this project :
 
 1- Download/clone the entire project and open it in IDE
