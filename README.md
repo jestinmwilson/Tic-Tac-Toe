@@ -32,3 +32,7 @@ How to run this project :
 Now you can  send game invitation to other users. When they accept your request, you can see it in Active games and play with them. Then you can play turn by turn.
 
 
+
+https://user-images.githubusercontent.com/80836634/135962742-2ed7b341-feeb-4af6-8c0c-0c2074915202.mp4
+
+
