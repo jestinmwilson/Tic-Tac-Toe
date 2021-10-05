@@ -3,25 +3,28 @@ How to run this project :
 
 1- Download/clone the entire project and open it in IDE.
  
-   install the virtual environment
+2- install the virtual environment
 
     py -m pip install --user virtualenv
 
-2- create virtual environment
+3- create virtual environment
    
     py  -m venv env
 
-3- activate the virtual environment
+4- activate the virtual environment
         
     .\env\Scripts\activate
-4- 
 
-3- Install django using pip in cmd.
+5- Install requirements
+   
+    pip install -r requirements.txt
 
-pip install django
+6- migrate 
+   
+    python manage.py migrate
+    python manage.py makemigrations
+7- runserver
 
-4- Run the project.
-
-python3 manage.py runserver
-
-5- Now you can SignUp and send game invitation to other users. When they accept your request, you can see it in Active games and play with them. Then you can play turn by turn.
+    python manage.py runserver
+    
+Now you can  send game invitation to other users. When they accept your request, you can see it in Active games and play with them. Then you can play turn by turn.
