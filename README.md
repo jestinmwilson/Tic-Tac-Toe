@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 How to run this project :
 
-1- Download/clone the entire project and open it in IDE.
+1- Download/clone the entire project and open it in IDE
 
    https://github.com/jestinmwilson/Tic-Tac-Toe.git
  
